@@ -3,7 +3,7 @@ Sven Bächli
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Es ging darum, den PC, den ich auf Weihnachten geschenkt bekommen habe, zusammen zu bauen und einzurichten.
 
 ## Was habe ich gelernt?
 
