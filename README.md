@@ -12,15 +12,25 @@ Ich habe gelernt, wie man einen PC von Grund auf richtig zusammenbaut.
 ## Beschreibung
 
 Parts:
+
 GPU: GTX 1070
+
 CPU: Intel i5
+
 Ram: Corsair vengeance 16GB (2x)
+
 Motherboard: ASUS Prime Z390-P
+
 CPU Cooler: Cooler Master TX3 EVO
+
 SSD: SanDisk 980 500GB
+
 HDD: WD Blue 2TB
+
 Thermal Paste: Arctic MX 4
+
 Externes DVD Laufwerk: ASUS SDRW
+
 Netzteil: Seasonic M12 EVO Edition
 
 Alle Einzelteile die für den Bau gebraucht wurden:
