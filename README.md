@@ -11,13 +11,11 @@ Ich habe gelernt, wie man einen PC von Grund auf richtig zusammenbaut.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-Alle Einzelteile die für den Bau gebraucht wurden.
+Alle Einzelteile die für den Bau gebraucht wurden:
 
 ![Parts](https://user-images.githubusercontent.com/110892330/184816442-4665853c-3795-4229-a08c-d72e8ff68715.jpeg)
 
-Das Motherboard mit CPU und Lüfter schon installiert
+Das Motherboard mit CPU und Lüfter schon installiert:
 
 ![Motherboard](https://user-images.githubusercontent.com/110892330/184816421-5fa74461-f16b-43e9-b824-f509169da601.jpeg)
 
@@ -33,8 +31,8 @@ Das Motherboard mit CPU und Lüfter schon installiert
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Ganze Projekt lief sehr gut, bis auf das eine Problem, dass ich nachher beschreiben werde. Um das Kabelmanagement musste ich mir auch keine grossen Sorgen machen, weil mein PC keine Durchsichtigen Wände hat.
 
-👎 und etwas, was nicht gut lief.
+Was nicht so gut lief ist, dass ich die Festplatte bis heute nicht benuzen kann. Ich habe sie neu angeschlossen und im Intenet recherchiert was man gegen dieses Problem unternehmen kann und nichts hat etwas gebracht. Ich habe nur 500GB auf Meiner SSD und die ist seit 1 Monat voll.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
