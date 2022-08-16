@@ -35,4 +35,4 @@ Das Ganze Projekt lief sehr gut, bis auf das eine Problem, dass ich nachher besc
 
 Was nicht so gut lief ist, dass ich die Festplatte bis heute nicht benuzen kann. Ich habe sie neu angeschlossen und im Intenet recherchiert was man gegen dieses Problem unternehmen kann und nichts hat etwas gebracht. Ich habe nur 500GB auf Meiner SSD und die ist seit 1 Monat voll.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Nächstes mal, sollte ich sofort schauen ob alles funktioniert. Da ich erst so Spat gemerkt habe, das die HDD nich funktioniert, hatte sie keine Garantie mehr. Jetzt muss ich mir wohl eine neue Kaufen.
