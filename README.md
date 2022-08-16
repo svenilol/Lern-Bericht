@@ -11,6 +11,18 @@ Ich habe gelernt, wie man einen PC von Grund auf richtig zusammenbaut.
 
 ## Beschreibung
 
+Parts:
+GPU: GTX 1070
+CPU: Intel i5
+Ram: Corsair vengeance 16GB (2x)
+Motherboard: ASUS Prime Z390-P
+CPU Cooler: Cooler Master TX3 EVO
+SSD: SanDisk 980 500GB
+HDD: WD Blue 2TB
+Thermal Paste: Arctic MX 4
+Externes DVD Laufwerk: ASUS SDRW
+Netzteil: Seasonic M12 EVO Edition
+
 Alle Einzelteile die für den Bau gebraucht wurden:
 
 ![Parts](https://user-images.githubusercontent.com/110892330/184816442-4665853c-3795-4229-a08c-d72e8ff68715.jpeg)
@@ -19,11 +31,6 @@ Das Motherboard mit CPU und Lüfter schon installiert:
 
 ![Motherboard](https://user-images.githubusercontent.com/110892330/184816421-5fa74461-f16b-43e9-b824-f509169da601.jpeg)
 
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
