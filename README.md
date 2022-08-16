@@ -44,7 +44,7 @@ Das Motherboard mit CPU und Lüfter schon installiert:
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der PC der ich 2020 gbaut habe, leuft bis heute und wurde von mir auch 2 mal Upgegraded. Einmal die GPU auf eine RTX 3060 und einmal die CPU auf eine Intel i7.
 
 # Reflektion zum Arbeitsprozess
 
