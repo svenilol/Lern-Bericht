@@ -31,7 +31,7 @@ Das Motherboard mit CPU und Lüfter schon installiert:
 
 # Reflektion zum Arbeitsprozess
 
-Das Ganze Projekt lief sehr gut, bis auf das eine Problem, dass ich nachher beschreiben werde. Um das Kabelmanagement musste ich mir auch keine grossen Sorgen machen, weil mein PC keine Durchsichtigen Wände hat.
+Das Ganze Projekt lief sehr gut, bis auf das eine Problem, dass ich nachher beschreiben werde. Um das Kabelmanagement musste ich mir auch keine grossen Sorgen machen, weil mein Gehäuse keine Durchsichtigen Wände hat.
 
 Was nicht so gut lief ist, dass ich die Festplatte bis heute nicht benuzen kann. Ich habe sie neu angeschlossen und im Intenet recherchiert was man gegen dieses Problem unternehmen kann und nichts hat etwas gebracht. Ich habe nur 500GB auf Meiner SSD und die ist seit 1 Monat voll.
 
